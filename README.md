@@ -1,2 +1,2 @@
 # Tensorflow
-Google Collabs
+Machine learning using Tensorflow-Python sample codes
